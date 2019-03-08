@@ -80,8 +80,8 @@
 }
 
 #third-divider {
-  height: 100%;
-  width: 3%;
+  height: 20%;
+  width: 100%;
 }
 
 #fourth-divider {
@@ -90,8 +90,8 @@
 }
 
 #fifth-divider {
-  height: 20%;
-  width: 100%;
+  height: 100%;
+  width: 3%;
 }
 
 .red {
