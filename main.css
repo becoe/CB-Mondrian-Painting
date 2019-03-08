@@ -1,0 +1,7 @@
+#canvas {
+  width: 400px;
+  height: 400px;
+  background-color: ivory;
+  margin: 0 auto;
+  box-shadow: 15px 15px 10px -5px gray;
+}
