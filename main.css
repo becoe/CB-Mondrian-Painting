@@ -6,6 +6,8 @@
   box-shadow: 15px 15px 10px -5px gray;
 }
 
+/* Row formatting */
+
 #first-row {
   height: 75%;
   width: 100%;
@@ -22,6 +24,8 @@
   width: 100%;
 }
 
+/* Column formatting */
+
 #first-column {
   height: 100%;
   width: 22%;
@@ -32,6 +36,8 @@
   height: 100%;
   width: 7%;
 }
+
+/* Rectangle formatting */
 
 #big-rectangle {
 
@@ -69,6 +75,8 @@
   width: 100%;
 }
 
+/* Divider formatting */
+
 #first-divider {
   height: 100%;
   width: 3%;
@@ -94,6 +102,8 @@
   width: 3%;
 }
 
+/* Colors */
+
 .red {
   background-color: red;
 }
@@ -113,6 +123,8 @@
 .yellow {
   background-color: yellow;
 }
+
+/* Positioning */
 
 .right {
   float: right;
